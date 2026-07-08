@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ed4ef0dc578f3e4fa9d098a2e339b7f
+timeCreated: 1475692177
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Scripts/Car/SkidMarks.cs
+  uploadId: 843356

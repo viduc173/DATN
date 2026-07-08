@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e1866e566fbf9c04c8acb36fb50b0764
+timeCreated: 1488106328
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Effects/Rain/TextureVideo.cs
+  uploadId: 843356

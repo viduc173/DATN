@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6d9f312761159c48873396a00fb0fbb
+timeCreated: 1475626561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Settings/PhysicsMaterial/Ice.physicMaterial
+  uploadId: 843356

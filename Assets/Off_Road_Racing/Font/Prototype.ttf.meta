@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f55e7e290982bc64aaf07f08e2e998ea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Prototype
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Font/Prototype.ttf
+  uploadId: 843356

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ccb238869c4c1846ac90adece68b7dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Scripts/Utility/Track_Camera_Manager.cs
+  uploadId: 843356

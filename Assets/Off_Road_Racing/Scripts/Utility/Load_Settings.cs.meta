@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9752450dbc1ed7a42bb2c364f8b9e87b
+timeCreated: 1474220660
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Scripts/Utility/Load_Settings.cs
+  uploadId: 843356

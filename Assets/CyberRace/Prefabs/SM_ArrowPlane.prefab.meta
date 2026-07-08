@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000011169876026620943920
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319601
+  packageName: Racing Track - Night City (URP)
+  packageVersion: 1.0
+  assetPath: Assets/RacingTrack/Prefabs/SM_ArrowPlane.prefab
+  uploadId: 756059

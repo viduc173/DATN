@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eee677007bf48c643a8bccd8b05567cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Models/Characters/Animations/Controllers/Idle_5.controller
+  uploadId: 843356

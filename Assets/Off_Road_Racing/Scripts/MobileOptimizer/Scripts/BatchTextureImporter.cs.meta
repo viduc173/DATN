@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c8e7bd22108a5a94ea975205a926757f
+timeCreated: 1499063761
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Scripts/MobileOptimizer/Scripts/BatchTextureImporter.cs
+  uploadId: 843356
