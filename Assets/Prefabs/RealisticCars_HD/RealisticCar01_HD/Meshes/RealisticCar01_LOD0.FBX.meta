@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 14d293759c190f4429a695703756ced6
+timeCreated: 1496948013
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Car01_Body
+    100002: Car01_BrakeCaliper_FrontLeft
+    100004: Car01_BrakeCaliper_FrontRight
+    100006: Car01_BrakeCaliper_RearLeft
+    100008: Car01_BrakeCaliper_RearRight
+    100010: Car01_BrakeDisc_FrontLeft
+    100012: Car01_BrakeDisc_FrontRight
+    100014: Car01_BrakeDisc_RearLeft
+    100016: Car01_BrakeDisc_RearRight
+    100018: Car01_Glass
+    100020: Car01_interior
+    100022: Car01_rpmPointer
+    100024: Car01_SpeedPointer
+    100026: Car01_SteeringWheel
+    100028: Car01_Wheel_FrontLeft
+    100030: Car01_Wheel_FrontRight
+    100032: //RootNode
+    100034: Wheel_RearLeft
+    100036: Wheel_RearRight
+    100038: Car01_Wheel_RearLeft
+    100040: Car01_Wheel_RearRight
+    100042: Car01_TurnLights_Right
+    100044: Car01_Body_LOD0
+    100046: Car01_Glass_LOD0
+    100048: Car01_interior_LOD0
+    100050: Car01_SteeringWheel_LOD0
+    100052: Car01_Wheel_FrontLeft_LOD0
+    100054: Car01_Wheel_FrontRight_LOD0
+    100056: Car01_Wheel_RearLeft_LOD0
+    100058: Car01_Wheel_RearRight_LOD0
+    400000: Car01_Body
+    400002: Car01_BrakeCaliper_FrontLeft
+    400004: Car01_BrakeCaliper_FrontRight
+    400006: Car01_BrakeCaliper_RearLeft
+    400008: Car01_BrakeCaliper_RearRight
+    400010: Car01_BrakeDisc_FrontLeft
+    400012: Car01_BrakeDisc_FrontRight
+    400014: Car01_BrakeDisc_RearLeft
+    400016: Car01_BrakeDisc_RearRight
+    400018: Car01_Glass
+    400020: Car01_interior
+    400022: Car01_rpmPointer
+    400024: Car01_SpeedPointer
+    400026: Car01_SteeringWheel
+    400028: Car01_Wheel_FrontLeft
+    400030: Car01_Wheel_FrontRight
+    400032: //RootNode
+    400034: Wheel_RearLeft
+    400036: Wheel_RearRight
+    400038: Car01_Wheel_RearLeft
+    400040: Car01_Wheel_RearRight
+    400042: Car01_TurnLights_Right
+    400044: Car01_Body_LOD0
+    400046: Car01_Glass_LOD0
+    400048: Car01_interior_LOD0
+    400050: Car01_SteeringWheel_LOD0
+    400052: Car01_Wheel_FrontLeft_LOD0
+    400054: Car01_Wheel_FrontRight_LOD0
+    400056: Car01_Wheel_RearLeft_LOD0
+    400058: Car01_Wheel_RearRight_LOD0
+    2300000: Car01_Body
+    2300002: Car01_BrakeCaliper_FrontLeft
+    2300004: Car01_BrakeCaliper_FrontRight
+    2300006: Car01_BrakeCaliper_RearLeft
+    2300008: Car01_BrakeCaliper_RearRight
+    2300010: Car01_BrakeDisc_FrontLeft
+    2300012: Car01_BrakeDisc_FrontRight
+    2300014: Car01_BrakeDisc_RearLeft
+    2300016: Car01_BrakeDisc_RearRight
+    2300018: Car01_Glass
+    2300020: Car01_interior
+    2300022: Car01_rpmPointer
+    2300024: Car01_SpeedPointer
+    2300026: Car01_SteeringWheel
+    2300028: Car01_Wheel_FrontLeft
+    2300030: Car01_Wheel_FrontRight
+    2300032: Wheel_RearLeft
+    2300034: Wheel_RearRight
+    2300036: Car01_Wheel_RearLeft
+    2300038: Car01_Wheel_RearRight
+    2300040: Car01_TurnLights_Right
+    2300042: Car01_Body_LOD0
+    2300044: Car01_Glass_LOD0
+    2300046: Car01_interior_LOD0
+    2300048: Car01_SteeringWheel_LOD0
+    2300050: Car01_Wheel_FrontLeft_LOD0
+    2300052: Car01_Wheel_FrontRight_LOD0
+    2300054: Car01_Wheel_RearLeft_LOD0
+    2300056: Car01_Wheel_RearRight_LOD0
+    3300000: Car01_Body
+    3300002: Car01_BrakeCaliper_FrontLeft
+    3300004: Car01_BrakeCaliper_FrontRight
+    3300006: Car01_BrakeCaliper_RearLeft
+    3300008: Car01_BrakeCaliper_RearRight
+    3300010: Car01_BrakeDisc_FrontLeft
+    3300012: Car01_BrakeDisc_FrontRight
+    3300014: Car01_BrakeDisc_RearLeft
+    3300016: Car01_BrakeDisc_RearRight
+    3300018: Car01_Glass
+    3300020: Car01_interior
+    3300022: Car01_rpmPointer
+    3300024: Car01_SpeedPointer
+    3300026: Car01_SteeringWheel
+    3300028: Car01_Wheel_FrontLeft
+    3300030: Car01_Wheel_FrontRight
+    3300032: Wheel_RearLeft
+    3300034: Wheel_RearRight
+    3300036: Car01_Wheel_RearLeft
+    3300038: Car01_Wheel_RearRight
+    3300040: Car01_TurnLights_Right
+    3300042: Car01_Body_LOD0
+    3300044: Car01_Glass_LOD0
+    3300046: Car01_interior_LOD0
+    3300048: Car01_SteeringWheel_LOD0
+    3300050: Car01_Wheel_FrontLeft_LOD0
+    3300052: Car01_Wheel_FrontRight_LOD0
+    3300054: Car01_Wheel_RearLeft_LOD0
+    3300056: Car01_Wheel_RearRight_LOD0
+    4300000: Wheel_RearRight
+    4300002: Car01_Wheel_FrontLeft
+    4300004: Car01_BrakeDisc_FrontLeft
+    4300006: Wheel_RearLeft
+    4300008: Car01_interior
+    4300010: Car01_SpeedPointer
+    4300012: Car01_rpmPointer
+    4300014: Car01_SteeringWheel
+    4300016: Car01_Wheel_FrontRight
+    4300018: Car01_Glass
+    4300020: Car01_Body
+    4300022: Car01_BrakeDisc_FrontRight
+    4300024: Car01_BrakeDisc_RearRight
+    4300026: Car01_BrakeDisc_RearLeft
+    4300028: Car01_BrakeCaliper_FrontRight
+    4300030: Car01_BrakeCaliper_FrontLeft
+    4300032: Car01_BrakeCaliper_RearLeft
+    4300034: Car01_BrakeCaliper_RearRight
+    4300036: Car01_Wheel_RearRight
+    4300038: Car01_Wheel_RearLeft
+    4300040: Car01_TurnLights_Right
+    4300042: Car01_Wheel_RearRight_LOD0
+    4300044: Car01_Wheel_FrontLeft_LOD0
+    4300046: Car01_Wheel_RearLeft_LOD0
+    4300048: Car01_interior_LOD0
+    4300050: Car01_Wheel_FrontRight_LOD0
+    4300052: Car01_Glass_LOD0
+    4300054: Car01_Body_LOD0
+    4300056: Car01_SteeringWheel_LOD0
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
