@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c2d3e4f5a67890123456789bcdef01, type: 3}
+  m_Name: Paint_Black
+  m_EditorClassIdentifier:
+  partName: Black Spray Paint
+  slot: 8
+  description: Cosmetic black paint can.
+  icon: {fileID: 21300000, guid: 6cfe71f6ed2ce4a46baef81143438818, type: 3}
+  statBonus:
+    maxSpeed: 0
+    acceleration: 0
+    grip: 0
+    braking: 0
+    handling: 0
+  wheelPrefab: {fileID: 0}
+  brakePrefabLeft: {fileID: 0}
+  brakePrefabRight: {fileID: 0}
+  sprayPrefab: {fileID: 5128212127624573589, guid: 0564c9594bbe1714f93f0114258077e0, type: 3}
+  tier: 1
+  costGold: 100

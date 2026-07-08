@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c2d3e4f5a67890123456789bcdef01, type: 3}
+  m_Name: Tires_Offroad_Great
+  m_EditorClassIdentifier: 
+  partName: Offroad Pro Tires
+  slot: 1
+  description: Maximum offroad control with a clear top-speed tradeoff.
+  icon: {fileID: 21300000, guid: e0fa2853cd6cd7d4cb3add8a2f6e446f, type: 3}
+  statBonus:
+    maxSpeed: 0
+    acceleration: 3
+    grip: 16
+    braking: 12
+    handling: 14
+  wheelPrefab: {fileID: 5201561421110888248, guid: 1ed559af5ec70904491763edb348d16e, type: 3}
+  brakePrefabLeft: {fileID: 0}
+  brakePrefabRight: {fileID: 0}
+  tier: 4
+  costGold: 900

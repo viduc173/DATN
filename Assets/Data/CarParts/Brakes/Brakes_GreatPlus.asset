@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c2d3e4f5a67890123456789bcdef01, type: 3}
+  m_Name: Brakes_GreatPlus
+  m_EditorClassIdentifier:
+  partName: Great Brakes Plus
+  slot: 2
+  description: Top-tier calipers with maximum stopping response.
+  icon: {fileID: 21300000, guid: 74012565f11f0274f95376c9d9503101, type: 3}
+  statBonus:
+    maxSpeed: 0
+    acceleration: -1
+    grip: 2
+    braking: 14
+    handling: 5
+  wheelPrefab: {fileID: 0}
+  brakePrefabLeft: {fileID: 6578230758882430212, guid: 82a2e0f3a5dcfa94a937cf06be291081, type: 3}
+  brakePrefabRight: {fileID: 1101460869872155766, guid: 56c737336d7a65a47b2ce7667b172b59, type: 3}
+  tier: 4
+  costGold: 1100

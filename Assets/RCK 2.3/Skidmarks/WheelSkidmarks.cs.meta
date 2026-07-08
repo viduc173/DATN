@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d210d9cb96226e2479b0b8686a6a8e14
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353742
+  packageName: Complete Off-Road Racing (Lit Edition) Vol.2
+  packageVersion: 1.0
+  assetPath: Assets/Off_Road_Racing/Effects/SkidMarks/WheelSkidmarks.cs
+  uploadId: 843356
